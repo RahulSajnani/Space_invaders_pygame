@@ -17,3 +17,6 @@ H - Bullets that freeze the enemies
 Arrow keys - move the shuttle
 X - Exit
 
+Command to run the game
+
+python Space_invaders.py
